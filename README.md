@@ -14,10 +14,10 @@
 
 #### চ্যাপ্টার – ০: শুরুর আগে
 **[কম্পিউটারের সেকাল একাল](https://github.com/Joshimcse/javascript-book/blob/master/contents/0%20-%20shurur%20age/0_0%20-%20computer%20er%20sekal%20ekal.md)**<br>
-**[প্রোগ্রামিং কি, কেন, কিভাবে ?](#প্রোগ্রামিং-কি-কেন-কিভাবে-)**<br>
-**[জাভাস্ক্রিপ্ট এর ইতিবৃত্ত](#জাভাস্ক্রিপ্ট-এর-ইতিবৃত্ত)**<br>
-**[ট্রান্সলেটর ও জাভাস্ক্রিপ্ট ইঞ্জিন](#ট্রান্সলেটর-ও-জাভাস্ক্রিপ্ট-ইঞ্জিন)**<br>
-**[কনসোলের খুঁটিনাটি ও হ্যালো দুনিয়া](#কনসোলের-খুঁটিনাটি-ও-হ্যালো-দুনিয়া)**<br>
+**[প্রোগ্রামিং কি, কেন, কিভাবে ?](https://github.com/Joshimcse/javascript-book/blob/master/contents/0%20-%20shurur%20age/0_1%20-%20programming%20ki%20keno%20kivabe.md)**<br>
+**[জাভাস্ক্রিপ্ট এর ইতিবৃত্ত](https://github.com/Joshimcse/javascript-book/blob/master/contents/0%20-%20shurur%20age/0_2%20-%20javascript%20er%20etibitto.md)**<br>
+**[ট্রান্সলেটর ও জাভাস্ক্রিপ্ট ইঞ্জিন](https://github.com/Joshimcse/javascript-book/blob/master/contents/0%20-%20shurur%20age/0_3%20-%20transletor%20and%20javascrpt%20engine.md)**<br>
+**[কনসোলের খুঁটিনাটি ও হ্যালো দুনিয়া](https://github.com/Joshimcse/javascript-book/blob/master/contents/0%20-%20shurur%20age/0_4%20-%20console%20er%20khutinati%20and%20hello%20duniya.md)**<br>
 
 #### চ্যাপ্টার – ১: প্রোগ্রামিং এর হাতেখড়ি
 
